@@ -1,4 +1,4 @@
-## Olá! 👋  
+## Hello Techeis! 👋  
 
 Bem-vindo ao meu GitHub! Sou **Daiana Batista**, **Tech Recruiter**, apaixonada por **carreira, tecnologia, IA** e pelos impactos da tecnologia no nosso **bem-estar emocional**.  
 
